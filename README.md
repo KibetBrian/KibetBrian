@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Kibet Brian
-- 👀 Passionate devloper who enjoys solving coding problems
+- 👀 Passionate developer who enjoys solving coding problems
 - 🌱 I’m currently learning Node js
 
 <!---
