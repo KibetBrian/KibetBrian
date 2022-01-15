@@ -1,5 +1,5 @@
 - 👋 Hi, Welcome to my page ... I'm Kibet Brian a passionate software developer who enjoys solving coding problems.
-- 🌱 I’m currently learning Solidity and blockchain development
+- 🌱 I’m currently polishing my software engineering skills including DSA and system design
 
 <!---
 KibetBrian/KibetBrian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
